@@ -30,6 +30,14 @@ ___
 - Multiempresas (abordagem de base compartilhada)
 
   
+## Instalando
+Seguem links sugerimos:
+
+-  [Como Instalar o IZING VPS - Texto - UBUNTU 20, 22](docs/INSTALL_VPS_UBUNTU_20_22.md)
+
+-  [Instalador automatico](https://github.com/cleitonme/izingpro.bayles.install)
+<br/>
+
 ## Atualizando
 
 Izing é um trabalho em progresso e estamos frequentemente adicionando novas funcionalidades e correções de bugs.
