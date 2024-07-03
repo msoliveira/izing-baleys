@@ -13,11 +13,6 @@ Chat Interno
 **IMPORTANTE**: não garantimos que a utilização desta ferramenta não irá gerar bloqueio nas contas utilizadas. São bots que em sua maioria utilizam APIs segundarias para comunicação com os fornecedores dos serviços. Use com responsabilidade!
 
 
-## Screenshots
->![Doação](screenshots/painelsaas1.png) 
-___  
->![Doação](screenshots/painelsaas2.png)
-___
 
 ## Principais funcionalidades
 
@@ -29,14 +24,6 @@ ___
 - Enviar e receber mídias diversas (imagens/áudio/documentos) ✅
 - Multiempresas (abordagem de base compartilhada)
 
-  
-## Instalando
-Seguem links sugerimos:
-
--  [Como Instalar o IZING VPS - Texto - UBUNTU 20, 22](docs/INSTALL_VPS_UBUNTU_20_22.md)
-
--  [Instalador automatico](https://github.com/cleitonme/izingpro.bayles.install)
-<br/>
 
 ## Atualizando
 
